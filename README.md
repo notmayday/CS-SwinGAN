@@ -11,6 +11,7 @@ Official PyTorch implementation of CS-SwinGAN described in the paper "".
   <img src="./asserts/CS-Block.png" width="800px" alt="Compressed Sensing Block">
   <p style="font-weight: bold; margin-top: 5px;">Compressed Sensing Block</p>
 </div>
+
 ## Dependencies
 
 ```
