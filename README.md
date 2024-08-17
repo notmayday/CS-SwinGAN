@@ -3,15 +3,14 @@
 Official PyTorch implementation of CS-SwinGAN described in the paper "".
 
 <div align="center">
-<img src="./asserts/framework.png" width="800px">
+  <img src="./asserts/framework.png" width="800px" alt="Overall Architecture of CS-SwinGAN Model">
+  <p style="font-weight: bold; margin-top: 5px;">Overall Architecture of CS-SwinGAN Model</p>
 </div>
-Overall Architecture of CS-SwinGAN Model
 
 <div align="center">
-<img src="./asserts/CS-Block.png" width="800px">
+  <img src="./asserts/CS-Block.png" width="800px" alt="Compressed Sensing Block">
+  <p style="font-weight: bold; margin-top: 5px;">Compressed Sensing Block</p>
 </div>
-Compressed Sensing Block
-
 ## Dependencies
 
 ```
@@ -61,6 +60,7 @@ python3 difference_poisson.py
 
 <br />
 <br />
+
 ## Trained checkpoint download
 
 We have established a checkpoint based on our ongoing work. For optimal results, we recommend training your own CS-SwinGAN model.
