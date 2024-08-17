@@ -5,10 +5,12 @@ Official PyTorch implementation of CS-SwinGAN described in the paper "".
 <div align="center">
 <img src="./asserts/framework.png" width="800px">
 </div>
+Overall Architecture of CS-SwinGAN Model
 
 <div align="center">
 <img src="./asserts/CS-Block.png" width="800px">
 </div>
+Compressed Sensing Block
 
 ## Dependencies
 
@@ -59,7 +61,11 @@ python3 difference_poisson.py
 
 <br />
 <br />
+## Trained checkpoint download
 
+We have established a checkpoint based on our ongoing work. For optimal results, we recommend training your own CS-SwinGAN model.
+<br />
+[Brain_T2_poisson_30%]()
 
 # Citation
 You are encouraged to modify/distribute this code. However, please acknowledge this code and cite the paper appropriately.
