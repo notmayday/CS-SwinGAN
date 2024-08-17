@@ -57,8 +57,8 @@ val_num_workers: 6                                                # Number of va
 save_prediction: 1                                                  # Save predicted images.
 save_path: "SAVE_path"                                              # Path to save predictions
 visualize_images: 1                                                 # Visualize predicted images.0                                  # Model checkpoint to use for prediction.0.
-model: "./OUTPUT_PATH/NCS_Swin_Brain_Poisson30_PSNR38.11_SSIM0.9771.pth" # ACP_epoch50_T2_poisson_50(SW) ACP_epoch50_T2_radial_30(DA) ACP_epoch50_T2_radial_50(KI)
-predict_data_dir: "/media/samuel/storage/UIH/V3+/data/h5/Test_T3_brain" 
+model: "./OUTPUT_PATH/" 
+predict_data_dir: "/media/samuel/storage/UIH/V3+/data/h5/Test_T2_brain" 
                                   #Additional Parameters
 GP: True
 ST: True
