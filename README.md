@@ -1,6 +1,6 @@
 # CS-SwinGAN
 
-Official PyTorch implementation of CS-SwinGAN described in the paper "".
+Official PyTorch implementation of CS-SwinGAN described in the paper "CS-SwinGAN: a swin-transformer-based generative adversarial network with compressed sensing preprocessing for MRI reconstruction". This paper is currently under review.
 
 <div align="center">
   <img src="./asserts/framework.png" width="800px" alt="Overall Architecture of CS-SwinGAN Model">
