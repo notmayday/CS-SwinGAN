@@ -2,9 +2,10 @@
 <br />
 Notes: This is the RSS reconstruction Version of CS-SwinGAN. It is more recommended to utilize CS-SwinGAN for multi-coil MRI reconstruction.
 <br />
+<br />
 [CS-SwinGAN_MC_Rec](https://github.com/notmayday/CS-SwinGAN_MC_Rec)
 <br />
-Official PyTorch implementation of CS-SwinGAN described in the paper "CS-SwinGAN: a swin-transformer-based generative adversarial network with compressed sensing preprocessing for MRI reconstruction". This paper is currently under review.
+
 
 <div align="center">
   <img src="./asserts/framework.png" width="800px" alt="Overall Architecture of CS-SwinGAN Model">
